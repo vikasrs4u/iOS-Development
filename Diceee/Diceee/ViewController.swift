@@ -37,7 +37,7 @@ class ViewController: UIViewController {
     
     func diceImageChanger()
     {
-        randomNum1 = Int(arc4random_uniform(6)) //remeber arcrandom gives us random number from 0 to N-1 that is 0 to 5 here
+        randomNum1 = Int(arc4random_uniform(6)) //remember arcrandom gives us random number from 0 to N-1 that is 0 to 5 here
         
         randomNum2 = Int(arc4random_uniform(6))
         
@@ -49,7 +49,7 @@ class ViewController: UIViewController {
         textLabelOutlet.text = "Total = "+String(totalSum)
     }
 
-    // Added code to roll the dice on shaking iPhone. 
+    // Added code to roll the dice on shaking iPhone.
     override func motionEnded(_ motion: UIEventSubtype, with event: UIEvent?)
     {
         diceImageChanger()
