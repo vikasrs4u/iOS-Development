@@ -48,6 +48,12 @@ class ViewController: UIViewController {
         
         textLabelOutlet.text = "Total = "+String(totalSum)
     }
+
+    // Added code to roll the dice on shaking iPhone. 
+    override func motionEnded(_ motion: UIEventSubtype, with event: UIEvent?)
+    {
+        diceImageChanger()
+    }
     
 }
 
