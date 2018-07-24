@@ -1,8 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
-// Means its a variable
 var str = "Hello, playground"
 
 var myName:String = "Vikas"

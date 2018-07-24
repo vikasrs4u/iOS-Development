@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/vikas/Documents/iOS-Development/Swift%20Arrays%20Study.playground#CharacterRangeLen=23&amp;CharacterRangeLoc=196&amp;EndingColumnNumber=0&amp;EndingLineNumber=7&amp;StartingColumnNumber=0&amp;StartingLineNumber=6&amp;Timestamp=552887748.3783669"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/vikas/Documents/iOS-Development/Swift%20Arrays%20Study.playground#CharacterRangeLen=15&amp;CharacterRangeLoc=197&amp;EndingColumnNumber=16&amp;EndingLineNumber=6&amp;StartingColumnNumber=1&amp;StartingLineNumber=6&amp;Timestamp=552887748.3786319"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/vikas/Documents/iOS-Development/Swift%20Arrays%20Study.playground#CharacterRangeLen=131&amp;CharacterRangeLoc=704&amp;EndingColumnNumber=0&amp;EndingLineNumber=47&amp;StartingColumnNumber=40&amp;StartingLineNumber=39&amp;Timestamp=552887748.378846"
+         lockedSize = "{214.04931640625, 161}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/vikas/Documents/iOS-Development/Swift%20Arrays%20Study.playground#CharacterRangeLen=171&amp;CharacterRangeLoc=664&amp;EndingColumnNumber=0&amp;EndingLineNumber=47&amp;StartingColumnNumber=0&amp;StartingLineNumber=39&amp;Timestamp=552887748.379076"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/vikas/Documents/iOS-Development/Swift%20Arrays%20Study.playground#CharacterRangeLen=22&amp;CharacterRangeLoc=708&amp;EndingColumnNumber=0&amp;EndingLineNumber=42&amp;StartingColumnNumber=1&amp;StartingLineNumber=41&amp;Timestamp=552887748.379283"
+         lockedSize = "{289.04931640625, 56}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/vikas/Documents/iOS-Development/Swift%20Arrays%20Study.playground#CharacterRangeLen=15&amp;CharacterRangeLoc=819&amp;EndingColumnNumber=0&amp;EndingLineNumber=46&amp;StartingColumnNumber=1&amp;StartingLineNumber=45&amp;Timestamp=552887748.379492"
+         lockedSize = "{312, 56}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
