@@ -8,10 +8,17 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class SecondViewController: UIViewController
+{
 
-    override func viewDidLoad() {
+    var dataPassed:String?
+    @IBOutlet weak var displayLabel: UILabel!
+    override func viewDidLoad()
+    {
         super.viewDidLoad()
+        
+        // setting data passed from screen 1
+        displayLabel.text = dataPassed!
 
         // Do any additional setup after loading the view.
     }
