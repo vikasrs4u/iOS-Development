@@ -36,7 +36,7 @@ class ViewController: UIViewController, UITableViewDataSource
         cell.accessoryType = .disclosureIndicator
         
         // Adding detailed text label text
-        cell.detailTextLabel?.text = "This is detailed label text"
+        cell.detailTextLabel?.text = "Google"
         
         // code to change the background color
         cell.selectionStyle = .default;
