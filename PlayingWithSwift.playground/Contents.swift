@@ -1,31 +1,47 @@
-var str = "Hello, playground"
+//var str = "Hello, playground"
+//
+//var myName:String = "Vikas"
+//
+//var myLastName = " Shetty"
+//
+//myName = myName + " Shetty"
+//
+//myName = "\(myName) \(myLastName)"
+//
+//let lastYear:Int = 2017
+//
+//
+//// remeber data type is not mandatory.
+//let scuID =  1375510
+//
+//// below code is illegal as "let or constants cant be modified once created.
+////lastYear = lastYear+1
+//
+//let copyRightMessage = "Apple Copyrights \(lastYear+1)"
+//
+//let multiplier = 3
+//
+//// to create an array which contains constants or image name we can use this.
+//
+//let diceArray = ["dice1","dice2","dice3","dice4","dice5","dice6"]
+//
+//let message = "\(multiplier) times 2.5 is \(Double(multiplier)*2.5)"
+//
+//print (message)
+//print (message)
+//
+//
+//
+//
+//
 
-var myName:String = "Vikas"
-
-var myLastName = " Shetty"
-
-myName = myName + " Shetty"
-
-myName = "\(myName) \(myLastName)"
-
-let lastYear:Int = 2017
 
 
-// remeber data type is not mandatory.
-let scuID =  1375510
+var name: String = "Vikas"
 
-// below code is illegal as "let or constants cant be modified once created.
-//lastYear = lastYear+1
 
-let copyRightMessage = "Apple Copyrights \(lastYear+1)"
+var rollNum = 1234
 
-let multiplier = 3
 
-// to create an array which contains constants or image name we can use this.
+var details = "My name is \(name) my roll number is \(rollNum)"
 
-let diceArray = ["dice1","dice2","dice3","dice4","dice5","dice6"]
-
-let message = "\(multiplier) times 2.5 is \(Double(multiplier)*2.5)"
-
-print (message)
-print (message)
